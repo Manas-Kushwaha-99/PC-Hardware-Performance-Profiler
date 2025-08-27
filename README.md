@@ -4,7 +4,7 @@ A simple real-time PC hardware monitoring dashboard built with Python and Tkinte
 
 ## Preview
 
-![Animation](Animation.gif)
+![Animation](https://github.com/user-attachments/assets/840ac16d-e2d0-42cd-b54d-77df206de60d)
 
 ## Features
 
