@@ -28,10 +28,8 @@ You can install the required packages using pip:
 
 1.  Make sure you have Python and the required libraries installed.
 2.  Save the code as `Code3.py`.
-3.  Place the `Animation.gif` in the same directory.
-4.  Run the script from your terminal:
-
-`python Code3.py`
+3.  Run the script from your terminal:
+         `python Code3.py`
 
 ## Note
 
