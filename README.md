@@ -4,7 +4,7 @@ A simple real-time PC hardware monitoring dashboard built with Python and Tkinte
 
 ## Preview
 
-![Animation](https://github.com/user-attachments/assets/840ac16d-e2d0-42cd-b54d-77df206de60d)
+![Monitor](https://github.com/user-attachments/assets/8d045df3-f6e0-4f36-a3e6-cb3f95eeedde)
 
 ## Features
 
@@ -19,17 +19,17 @@ A simple real-time PC hardware monitoring dashboard built with Python and Tkinte
 - `psutil`
 - `pynvml`
 - `opencv-python`
-- `tkinter` (usually included with Python)
+- `flet` 
 
 You can install the required packages using pip:
-`pip install psutil pynvml opencv-python`
+`pip install psutil pynvml opencv-python flet`
 
 ## How to Run
 
 1.  Make sure you have Python and the required libraries installed.
-2.  Save the code as `Code3.py`.
+2.  Save the code as `PC Monitor Dashboard.py`.
 3.  Run the script from your terminal:
-         `python Code3.py`
+         `python PC Monitor Dashboard.py`
 
 ## Note
 
