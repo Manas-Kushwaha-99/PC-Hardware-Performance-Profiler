@@ -78,7 +78,7 @@ def main(page: ft.Page):
                     padding=ft.padding.only(top=16, bottom=10),
                 ),
                 stats_column,
-                ft.Text("Made with Flet 0.28.3", size=13, color=ft.Colors.with_opacity(0.4, ft.Colors.WHITE), italic=True)
+                ft.Text("Made By Manas Kushwaha", size=13, color=ft.Colors.with_opacity(0.4, ft.Colors.WHITE), italic=True)
             ],
             alignment=ft.MainAxisAlignment.START, horizontal_alignment=ft.CrossAxisAlignment.CENTER, expand=True
         )
