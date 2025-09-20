@@ -1,6 +1,6 @@
 # PC Hardware Performance Profiler
 
-A simple real-time PC hardware monitoring dashboard built with Python and Tkinter. This tool provides a graphical user interface to display live performance metrics of your computer's hardware.
+A simple real-time PC hardware monitoring dashboard built with Python and Flet. This tool provides a graphical user interface to display live performance metrics of your computer's hardware.
 
 ## Preview
 
